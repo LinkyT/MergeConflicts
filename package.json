@@ -1,0 +1,20 @@
+{
+  "name": "mergeconflicts",
+  "version": "1.0.0",
+  "description": "Lets simulate some merge conflicts",
+  "main": "server.js",
+  "private": "true",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CastelloGovender/MergeConflicts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CastelloGovender/MergeConflicts/issues"
+  },
+  "homepage": "https://github.com/CastelloGovender/MergeConflicts#readme"
+}
